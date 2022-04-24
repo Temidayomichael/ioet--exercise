@@ -1,9 +1,6 @@
 
 # ioet Position - Coding exercise
 
-A brief description of what this project does and who it's for
-
-
 ## Overview
 
   In the given exercise, an employee salary is to be calculated based on the days and hours worked,
